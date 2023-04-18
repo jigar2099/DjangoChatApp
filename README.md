@@ -14,4 +14,4 @@ Following functions are covered in this website.
 5. Plots 
 
 ![OPS-1](/img/ops-1.png)
-![OPS-2](/img/ops-2.png)
+![OPS-2](/img/ops2.png)
